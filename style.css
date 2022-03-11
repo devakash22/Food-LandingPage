@@ -333,7 +333,6 @@
     border: 1px solid #D5E5FB;
     box-sizing: border-box;
     border-radius: 5px;
-    padding: 5px 0 20px 0;
 }
 .first-p{
     width: 421px;
@@ -360,7 +359,7 @@
     line-height: 28px;
     font-feature-settings: 'tnum' on, 'lnum' on;
     color: #7E848C;
-    padding: 20px 0;
+    padding: 35px 0 15px 0;
 }
 /* question section end*/
 
