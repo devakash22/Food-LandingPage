@@ -333,6 +333,7 @@
     border: 1px solid #D5E5FB;
     box-sizing: border-box;
     border-radius: 5px;
+    padding: 5px 0 20px 0;
 }
 .first-p{
     width: 421px;
